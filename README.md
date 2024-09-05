@@ -1,0 +1,2 @@
+# FastNotes
+Simple web-app
